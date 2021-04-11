@@ -1,6 +1,7 @@
 # Vixio
 
-The Skript Addon made to fit all of your Discord needs. You can join our Discord here: https://discord.gg/kNHmqYH
+The Skript Addon made to fit all of your Discord needs. You can join our Vixio Discord here: https://discord.gg/kNHmqYH
+if you want some help with Skript in general, feel free to join the German Skript Community Discord: https://discord.gg/QrhHNd4grV
 
 # Installing
 
@@ -52,5 +53,5 @@ gradlew.bat clean build
 
 # Contact
 <a href="https://discord.gg/kNHmqYH"><img src="https://discordapp.com/api/v7/guilds/236641445363056651/widget.png?style=banner3"></a>
-
+<a href="https://discord.gg/QrhHNd4grV"><img src="https://discordapp.com/api/v7/guilds/730895792167977021/widget.png?style=banner3"></a>
 
