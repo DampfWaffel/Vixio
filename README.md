@@ -6,7 +6,7 @@ if you want some help with Skript in general, feel free to join the German Skrip
 # Installing
 
 1. Download the latest version of [Skript](https://github.com/bensku/Skript/releases)
-2. Download the latest version of [Vixio](https://github.com/iBlitzkriegi/Vixio/releases)
+2. Download the latest version of [Vixio](https://github.com/GSDevs/Vixio/releases)
 3. Place both jars in your plugins folder
 4. Restart your server
 
